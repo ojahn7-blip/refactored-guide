@@ -1,5 +1,5 @@
-# refactored-guide
+# Практика GitHub
 
-Mein erstes GitHub-Repository.
+Это учебный репозиторий для выполнения задания по GitHub.
 
-In dieser Übung habe ich das Repository geklont, diese README-Datei geändert und die Änderung mit Git gespeichert.
+Здесь я тренируюсь клонировать репозиторий, изменять README.md, создавать коммиты и отправлять изменения.
